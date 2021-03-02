@@ -1,0 +1,88 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+}
+
+h1 {
+  width: 60%;
+  margin: 0 auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  width: 30%;
+  margin: 10px auto 0 auto;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+p
+{
+  font-family: sans-serif;
+}
+
+a:link {
+color: #EEEEEE;
+}
+
+a:visited {
+  color: #e5e5e5;
+}
+
+hr{
+  border-style: dashed none none none;
+  border-color: #e5e5e5;
+  border-width: 4px;
+  width: 75%;
+}
+
+.top-container {
+  background-color: #23374d;
+  color: #eeeeee;
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding: 15% 0 18% 0;
+}
+
+.middle-container {
+  background-color: #1089ff;
+  padding: 1% 10% 1% 10%;
+  margin: 0 auto 0 auto;
+}
+
+.bottom-container {
+  background-color: #23374d;
+  margin: 0 auto 0 auto;
+  padding: 1%;
+  color: #eeeeee;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 450px;
+}
+
+.sword-image {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  left: 57%;
+  top: 28%;
+}
+
+.skill-row {
+  padding-top: 10px;
+}
